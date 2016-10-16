@@ -1,0 +1,4 @@
+sqoop list-databases \
+--connect "jadbc:mysql://quickstart.cloudera:3306" \
+--username retails_dba
+--password cloudera
